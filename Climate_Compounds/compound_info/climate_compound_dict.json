@@ -1,0 +1,1922 @@
+{
+    "Wettklima": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "1990"
+            ]
+        ],
+        "category": "change"
+    },
+    "Weltklimarat": {
+        "occurence_by_party": {
+            "gru": 4,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 4,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Weltklimakonferenz": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Weltklima": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 4,
+        "first_mentioned": [
+            [
+                "gru",
+                "1990"
+            ]
+        ],
+        "category": "change"
+    },
+    "UN-Klimagipfel": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimazuschuss": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimazone": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "1990"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaziel": {
+        "occurence_by_party": {
+            "gru": 16,
+            "cdu": 10,
+            "spd": 7
+        },
+        "total_occurence": 33,
+        "first_mentioned": [
+            [
+                "spd",
+                "2005"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimazerstörung": {
+        "occurence_by_party": {
+            "gru": 6,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 6,
+        "first_mentioned": [
+            [
+                "gru",
+                "2005"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimawohngeld": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimawirkung": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimawende": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 1
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimawandel": {
+        "occurence_by_party": {
+            "gru": 39,
+            "cdu": 25,
+            "spd": 28
+        },
+        "total_occurence": 92,
+        "first_mentioned": [
+            [
+                "spd",
+                "2005"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaverträglichkeitsprüfung": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimavertrag": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaverschmutzung": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaverpflichtung": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaveränderung": {
+        "occurence_by_party": {
+            "gru": 13,
+            "cdu": 2,
+            "spd": 1
+        },
+        "total_occurence": 16,
+        "first_mentioned": [
+            [
+                "gru",
+                "1980"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaunion": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimatechnologie": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimasystem": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaschutzziel": {
+        "occurence_by_party": {
+            "gru": 9,
+            "cdu": 4,
+            "spd": 5
+        },
+        "total_occurence": 18,
+        "first_mentioned": [
+            [
+                "gru",
+                "2002"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzverpflichtung": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 1
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzvereinbarung": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2005"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutztechnologie": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 2,
+            "spd": 2
+        },
+        "total_occurence": 5,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzstrategie": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2005"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzstandard": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzprozess": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzprojekt": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzprogramm": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 0,
+            "spd": 2
+        },
+        "total_occurence": 5,
+        "first_mentioned": [
+            [
+                "spd",
+                "1994"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzpolitik": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 1,
+            "spd": 2
+        },
+        "total_occurence": 6,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2002"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaschutzplan": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 1
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzpfad": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzmaßnahme": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 2,
+            "spd": 0
+        },
+        "total_occurence": 5,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzleistung": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzkonzept": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzinvestition": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzinstrument": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 1
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzhaushalt": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzgründen": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaschutzgesetz": {
+        "occurence_by_party": {
+            "gru": 12,
+            "cdu": 0,
+            "spd": 4
+        },
+        "total_occurence": 16,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzgedanke": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "1994"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzfonds": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 0,
+            "spd": 1
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "gru",
+                "1998"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschützer": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzauflage": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzaspekt": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzallianz": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutzabkommen": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 1,
+            "spd": 2
+        },
+        "total_occurence": 6,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutz-Sofortprogramm": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutz-Investitions-Gesetz": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 0,
+            "spd": 1
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "spd",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutz-Innovationsfonds": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 0,
+            "spd": 1
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "spd",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutz-Abkommen": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschutz": {
+        "occurence_by_party": {
+            "gru": 154,
+            "cdu": 52,
+            "spd": 28
+        },
+        "total_occurence": 234,
+        "first_mentioned": [
+            [
+                "gru",
+                "1994"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaschonung": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaschäden": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimarisikoversicherung": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimarisiko": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaregion": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaregime": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimarahmenkonvention": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaproblematik": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2002"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaproblem": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "gru",
+                "1994"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimapolitische": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimapolitisch": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2005"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimapolitik": {
+        "occurence_by_party": {
+            "gru": 12,
+            "cdu": 0,
+            "spd": 6
+        },
+        "total_occurence": 18,
+        "first_mentioned": [
+            [
+                "gru",
+                "1990"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimapartnerschaft": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimapaket": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaneutralität": {
+        "occurence_by_party": {
+            "gru": 23,
+            "cdu": 2,
+            "spd": 2
+        },
+        "total_occurence": 27,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimamotor": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaleistung": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 2,
+            "spd": 0
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimakrise": {
+        "occurence_by_party": {
+            "gru": 44,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 44,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimakooperation": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 2,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimakonvention": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "1990"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimakonferenz": {
+        "occurence_by_party": {
+            "gru": 3,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 4,
+        "first_mentioned": [
+            [
+                "gru",
+                "1990"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimakomponente": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaklage": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimakiller-Subvention": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimakiller": {
+        "occurence_by_party": {
+            "gru": 5,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 5,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimakatastrophe": {
+        "occurence_by_party": {
+            "gru": 20,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 20,
+        "first_mentioned": [
+            [
+                "gru",
+                "1990"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimakanzlerin": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimagipfel": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 1
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "1998"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimagerechtigkeit": {
+        "occurence_by_party": {
+            "gru": 9,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 9,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimagerechter": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimageld": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimagas": {
+        "occurence_by_party": {
+            "gru": 4,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 4,
+        "first_mentioned": [
+            [
+                "gru",
+                "2002"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimafreundlichkeit": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimafreundlich": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimafrage": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaforschung": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimafonds": {
+        "occurence_by_party": {
+            "gru": 4,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 4,
+        "first_mentioned": [
+            [
+                "gru",
+                "1990"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimafolge": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaflüchtlinge": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaflüchtling": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimafinanzierung": {
+        "occurence_by_party": {
+            "gru": 4,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 5,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaerwärmung": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "1990"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaerhitzung": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaentscheidung": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaemissionsziel": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 0,
+            "spd": 1
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "spd",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaeffizienzreform": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimadiplomatie": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 0,
+            "spd": 1
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "spd",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimabrücke": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimabonus-Fonds": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimabonus": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimabilanz": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimabewegung": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimabelastung": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2002"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaausstoß": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaaußenpolitik": {
+        "occurence_by_party": {
+            "gru": 4,
+            "cdu": 2,
+            "spd": 1
+        },
+        "total_occurence": 7,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaanpassungsgesetz": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaanpassung": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 0,
+            "spd": 1
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "spd",
+                "2017"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaanlagen": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaänderungen": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2002"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klimaallianz": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klimaabkommen": {
+        "occurence_by_party": {
+            "gru": 18,
+            "cdu": 2,
+            "spd": 4
+        },
+        "total_occurence": 24,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klima-und": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 3,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klima-Sanierungsoffensive": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klima-Investition": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klima-Dialog": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klima-Club": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "change"
+    },
+    "Klima-Außenpolitik": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Klima-Abkommen": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2017"
+            ]
+        ],
+        "category": "measure"
+    },
+    "Investitionsklima": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "1987"
+            ]
+        ],
+        "category": "change"
+    },
+    "Innovationsklima": {
+        "occurence_by_party": {
+            "gru": 2,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 2,
+        "first_mentioned": [
+            [
+                "gru",
+                "2009"
+            ]
+        ],
+        "category": "change"
+    },
+    "EU-Klimaziel": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2021"
+            ]
+        ],
+        "category": "measure"
+    },
+    "EU-Klimaschutzprogramm": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2009"
+            ]
+        ],
+        "category": "measure"
+    },
+    "EU-Klimaaußenbeauftragten": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "2021"
+            ]
+        ],
+        "category": "change"
+    },
+    "Erdklima": {
+        "occurence_by_party": {
+            "gru": 1,
+            "cdu": 0,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "gru",
+                "2013"
+            ]
+        ],
+        "category": "change"
+    },
+    "Arbeitsklima": {
+        "occurence_by_party": {
+            "gru": 0,
+            "cdu": 1,
+            "spd": 0
+        },
+        "total_occurence": 1,
+        "first_mentioned": [
+            [
+                "cdu",
+                "1990"
+            ]
+        ],
+        "category": "change"
+    }
+}
